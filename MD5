@@ -1,4 +1,4 @@
-27e26c5771aa0405b34887b002b64b3d *DESCRIPTION
+de867f5b2fc0bd08d4aaa92f7f8eaa0f *DESCRIPTION
 df390c53434517b304ac5db487184641 *NAMESPACE
 249b3fe1b0b0442aeaec14955cc26d68 *NEWS.md
 883251d0a1cbdd7c005bd4d1beaf9ba8 *R/ahargana.R
@@ -43,7 +43,7 @@ e9bc4d550e3c09ea41132d2b8e4d451c *R/yoga.R
 aa0cf12b61c47c84c328541d5a93e6a2 *inst/WORDLIST
 ac7cf94ed832bab1e190458e0346057f *inst/doc/VedicDateTime.R
 e18d4cdc514751b0e5284b5921ec1dbc *inst/doc/VedicDateTime.Rmd
-48e23580b6f07bf5c1288090eea4c90d *inst/doc/VedicDateTime.pdf
+0d44820fbb5f8300c1eb14fcec69d9a6 *inst/doc/VedicDateTime.pdf
 831aee91f2746b06d3e11e545820ae06 *man/ahargana.Rd
 42aa223a8164d834ec75974bb3620ab8 *man/day_duration.Rd
 cd1aa021f5f365f96f47cd3cbb514015 *man/elapsed_year.Rd
